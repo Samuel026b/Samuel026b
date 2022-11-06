@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Samuel026b
+- 👀 I’m interested in chess
