@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @Samuel026b
-- 👀 I’m interested in chess
+Chess profile: https://www.lichess.org/@/Sam026
