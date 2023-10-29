@@ -6,4 +6,4 @@ Otherwise, chess account:
 
 https://lichess.org/@/Sam026. This is my 'main' account, where all further links and information is.
 
-The only programming language I now is Python, and I'm yet only doing simple things with it.
+The only programming language I know is Python, and I'm yet only doing simple things with it.
